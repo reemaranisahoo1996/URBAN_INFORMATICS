@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: https://github.com/reemaranisahoo1996/DATA/raw/main/Metro_Interstate_Traffic_Volume.csv.gz
+  local_data_file: artifcats/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
